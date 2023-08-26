@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseKotlinDemo</string>
+    <string name="firebase_realtime_database_app_in_kotlin">Firebase Realtime Database App in Kotlin</string>
+    <string name="insert_data">Insert Data</string>
+    <string name="loading_data">Loading data</string>
+    <string name="emp_name">Emp Name</string>
+    <string name="emp_id">Emp id</string>
+    <string name="emp_salary">Emp Salary</string>
+    <string name="emp_age">Emp Age</string>
+</resources>
